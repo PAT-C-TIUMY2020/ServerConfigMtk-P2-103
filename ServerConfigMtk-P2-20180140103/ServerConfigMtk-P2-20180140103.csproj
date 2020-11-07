@@ -42,8 +42,9 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Xml" />
-    <Reference Include="“ServiceMtk-P1-20180140103">
-      <HintPath>..\..\“ServiceMtk-P1-20180140103\“ServiceMtk-P1-20180140103\bin\Debug\“ServiceMtk-P1-20180140103.dll</HintPath>
+    <Reference Include="“ServiceMtk-P1-20180140103, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\ServiceMtk-P1-20180140103\“ServiceMtk-P1-20180140103\bin\Debug\“ServiceMtk-P1-20180140103.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
